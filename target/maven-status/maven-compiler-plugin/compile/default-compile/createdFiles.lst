@@ -1,0 +1,4 @@
+partyenrichment/entities/PartyBase.class
+partyenrichment/FraudDetector.class
+partyenrichment/PartyEnrichmentJob.class
+partyenrichment/entities/PartyEnriched.class
